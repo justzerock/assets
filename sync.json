@@ -1,0 +1,20 @@
+[
+  {
+    "id": "4671fc87-2542-4126-af71-a4af684039f8",
+    "Top": true,
+    "note": "片源高畫質追求",
+    "Search": true,
+    "title": "低端視頻",
+    "name": "SyncnextDDRK",
+    "api": "Syncnext://DDRK"
+  },
+  {
+    "id": "67bf155c-e1f6-40ef-a474-417d55a740a5",
+    "Top": true,
+    "note": "海外剧、综艺、动漫",
+    "Search": true,
+    "title": "廠長資源",
+    "name": "SyncnextCZSPP",
+    "api": "Syncnext://CZSPP"
+  }
+]
